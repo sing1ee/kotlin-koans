@@ -2,5 +2,10 @@ out
 workspace.xml
 
 .gradle
-build
+.idea/
+build/
 local.properties
+.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_runtime_1_0_5.xml
+.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_0_5.xml
+.idea/modules/kotlin-koans_main.iml
+.idea/modules/kotlin-koans_test.iml
